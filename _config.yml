@@ -21,9 +21,8 @@
 title: bluszcz.net
 email: bluszcz@bluszcz.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is my technical / creative blog where I will be sharing updates
+  about my Open Source, Tech or Multimedia related work. Have a fun!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bluszcz.net" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  bluszcz
