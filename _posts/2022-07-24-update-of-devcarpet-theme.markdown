@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Some development updates"
 date:   2022-07-24 11:54:22 +0200
 categories: development jekyll
 ---
