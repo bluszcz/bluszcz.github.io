@@ -26,7 +26,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bluszcz.net" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: blvszcz
 github_username:  bluszcz
 markdown: kramdown
 # Build settings
@@ -34,7 +33,12 @@ remote_theme: bluszcz/jekyll-theme-devcarpet-01
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
+devcarpet_theme:
+  social_links:
+    github:  bluszcz
+    vimeo: devcarpet
+    youtube_channel: UCH8bTGji7CZzSExtFGzvdMQ
+    youtube_channel_name: DevCarpet
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

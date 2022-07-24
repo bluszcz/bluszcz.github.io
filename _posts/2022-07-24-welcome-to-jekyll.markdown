@@ -9,5 +9,5 @@ I am happy to announce my new website. It is using Jekyll with my new Bootstrap 
 * [Jekyll Strapi 4 plugin](https://github.com/bluszcz/jekyll-strapi)
 * [Devcarpet 01 BootStrap 5 Jekyll Template](https://github.com/bluszcz/jekyll-theme-devcarpet-01)
 
-I've written recently a small tutorial how to use the plugin and you can find it here: https://medium.com/@bluszcz/static-site-generator-with-strapi-4-and-jekyll-4c5404cc9715
+I've written recently a small tutorial how to use the plugin and you can find it here: [Medium.com - SSG Strapi 4 and Jekyll](https://medium.com/@bluszcz/static-site-generator-with-strapi-4-and-jekyll-4c5404cc9715).
 
