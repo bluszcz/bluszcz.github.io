@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Some Jekyll and Strapi news"
 date:   2022-11-24 21:25:47 +0100
 categories: development jekyll strapi blog

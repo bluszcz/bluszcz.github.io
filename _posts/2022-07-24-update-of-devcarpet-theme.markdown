@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Some development updates"
 date:   2022-07-24 11:54:22 +0200
 categories: development jekyll
