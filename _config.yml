@@ -67,4 +67,12 @@ social:
   links:
     - "https://github.com/blluszcz"
     - "https://instagram.com/betaidoru666"
-    - https://mastodon.art/@bluszcz
+    - "https://mastodon.art/@bluszcz"
+    - "https://youtube.com/@devcarpet""
+
+author:
+  name     : "bluszcz"
+  bio      : "Open Source nerd. Fan of Python. DevOps for life. Linux user. Captures world with the help of Black Magic Cinema Pocket Camera 4K."
+  location : "Barcelona, Spain"
+
+
