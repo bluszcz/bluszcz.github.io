@@ -76,6 +76,6 @@ author:
   links:
     - label: "Mastodon"
       icon: "fas fa-fw fa-link"
-      url: "https://mastodon.art/@bluszcz"
+      uri: "https://mastodon.art/@bluszcz"
 
 
