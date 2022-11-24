@@ -73,9 +73,10 @@ author:
   name     : "bluszcz"
   bio      : "Open Source nerd. Fan of Python. DevOps for life. Linux user. Captures world with the help of Black Magic Cinema Pocket Camera 4K."
   location : "Barcelona, Spain"
+  uri      : "https://mastodon.art/@bluszcz"
   links:
-    - label: "Mastodon"
-      icon: "fas fa-fw fa-link"
-      uri: "https://mastodon.art/@bluszcz"
+    - label: "Github"
+      icon: "fas fa-fw fa-github"
+      url: "https://github.com/bluszcz"
 
 
