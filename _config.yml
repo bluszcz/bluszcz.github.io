@@ -33,7 +33,7 @@ markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
+  # - jekyll-seo-tag
   - jekyll-include-cache
 devcarpet_theme:
   social_links:
@@ -61,14 +61,13 @@ devcarpet_theme:
 #   - vendor/gems/
 #   - vendor/ruby/
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-social:
-  type:  # Person or Organization (defaults to Person)
-  name:  # If the user or organization name differs from the site's name
-  links:
-    - "https://github.com/blluszcz"
-    - "https://instagram.com/betaidoru666"
-    - "https://mastodon.art/@bluszcz"
-    - "https://youtube.com/@devcarpet""
+# social:
+#   type:  # Person or Organization (defaults to Person)
+#   name:  # If the user or organization name differs from the site's name
+#   links:
+#     - "https://instagram.com/betaidoru666"
+#     - "https://mastodon.art/@bluszcz"
+#     - "https://youtube.com/@devcarpet""
 
 author:
   name     : "bluszcz"
