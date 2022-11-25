@@ -18,26 +18,26 @@ Under [this link](https://github.com/mmistakes/minimal-mistakes/issues/2071#issu
 
 Add to `_config.yml`:
 
-```
+```yaml
 plugins:
   - jekyll-remote-theme
 ```
 
 Add to `Gemfile`:
 
-```
+```conf
 gem 'jekyll-remote-theme'
 ```
 
 Execute:
 
-```
+```bash
 bundle update
 ```
 
 Now everything should work as expected:
 
-```
+```bash
 ➜  bluszcz.github.io git:(main) bundle exec jekyll serve 
 Configuration file: /home/bluszcz/Dev/bluszcz.github.io/_config.yml
             Source: /home/bluszcz/Dev/bluszcz.github.io
