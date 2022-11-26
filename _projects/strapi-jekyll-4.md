@@ -1,30 +1,38 @@
 ---
 title: "Strapi-Jekyll-4"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+excerpt: "Static Site Generator with help of Jekyll and Strapi 4."
 header:
-  image: /assets/images/foo-bar-identity.jpg
+  image: /assets/images/headless.jpg
   teaser: /assets/images/foo-bar-identity-th.jpg
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: /assets/images/deer-logo.png
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
+    text: "Project Maintainer, Lead Developer"
   - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Roadmap of the plugin, implementing new features, reviewing the community requests and work."
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - url: /assets/images/strapi1.webp
+    image_path: assets/images/strapi1.webp
+    alt: "Creating field in Strapi"
+  - url: /assets/images/strapi2.webp
+    image_path: assets/images/strapi2.webp
+    alt: "Adding the content in Strapi"
+  - url: /assets/images/strapi3.jpg
+    image_path: assets/images/strapi3.jpg
+    alt: "Generated website with basic theme"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+Static site generator using with the help of Jekyll and Headless CMS Strapi 4, following the Jamstack principles and the architecture. You can read more about Jamstack here: [https://jamstack.org/](https://jamstack.org/).
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="Strapi 4 gallery and generated simply website." %}
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+Since my professional experience with Plone, I have become a fan of CMS solutions. A few years ago, when the new headless trend have been born - I chose Strapi as my main solution in this domain. In 2022 I was checking available static site generators to work with Strapi, and I found one using Jekyll. I liked the idea, but the plugin was in poor condition - not updated to the latest version of Strapi, not supporting authentication, not allowing to pull the media files, etc.
+
+I did a few weeks of Ruby work, I provided solid Pull Request and some time after I received ownership of the main [Github repo](https://github.com/strapi-community/jekyll-strapi) of the project.
+
+List of the main features which I provided for the plugin:
+* Update for version 4 of the plugin
+* Authentication
+* Support for the media files
+* Unit tests for the development

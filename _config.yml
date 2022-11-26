@@ -62,7 +62,7 @@ devcarpet_theme:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # social:
 #   type:  # Person or Organization (defaults to Person)
 #   name:  # If the user or organization name differs from the site's name
@@ -107,3 +107,6 @@ defaults:
       author_profile: false
       share: true
 include: ["_pages"]
+lunr:
+  search_within_pages: true
+search: true
