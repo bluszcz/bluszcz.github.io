@@ -3,7 +3,7 @@ title: "Strapi-Jekyll-4"
 excerpt: "Static Site Generator with help of Jekyll and Strapi 4."
 header:
   image: /assets/images/headless.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  teaser: /assets/images/strapi+jekyll.png
 sidebar:
   - title: "Role"
     image: /assets/images/deer-logo.png
@@ -36,3 +36,5 @@ List of the main features which I provided for the plugin:
 * Authentication
 * Support for the media files
 * Unit tests for the development
+
+I wrote a starter article which you can find on [Dev.To](https://dev.to/bluszcz/static-site-generator-with-strapi-4-and-jekyll-5afp) but also on [Medium](https://medium.com/@bluszcz/static-site-generator-with-strapi-4-and-jekyll-4c5404cc9715).
