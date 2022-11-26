@@ -19,6 +19,6 @@ cr3 0 0x000000186674797063727820000000016372782069736f6d0000
 
 I created a special file `photorec.sig`, started Photorec again, and had my files back!
 
-I recorded also a mini tutorial which you can watch it in a multimedia way, enjoy:
+I recorded also a mini tutorial which you can watch in a multimedia way, enjoy:
 
 {% include video id="r_jX0nbsfYY" provider="youtube" %}
