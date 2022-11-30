@@ -1,11 +1,11 @@
 ---
 layout: single
-title:  "Godot 4 Beta and Green Stories Development Blog #00"
-date:   2022-11-28 17:00:47 +0100
+title:  "Green Stories Development Blog #01"
+date:   2022-11-29 23:00:47 +0100
 categories: development gamedev green_stories  gotodengine
 ---
 I used to do hobbyists game development for some years, some of the projects can be found on the [Devcarpet](https://devcarpet.net) page, with my two favorites - [Deer Portal]() and [Deer Shifter]() - the second one have been developed for the Game Jam Ludum Dare.
-![image tooltip here](/assets/images/gamedev/gs01-jpg)
+![Progress](/assets/images/gamedev/gs02.jpg)
 I am also a gamer, and recently I have been playing a bit of Stardew Valley. It inspired me to come up with a new project. I have checked the current development status of Godot Engine - it seems that [beta 6 has been released](https://godotengine.org/article/dev-snapshot-godot-4-0-beta-6), and I have decided to use this one.
 
 I have purchased also several tiles and sprite collections during the last decade - mostly on Humble Bumble sales. 
