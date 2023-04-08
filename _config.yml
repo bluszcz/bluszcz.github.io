@@ -110,3 +110,4 @@ include: ["_pages"]
 lunr:
   search_within_pages: true
 search: true
+og_image: /assets/images/Banner-Bluszcz.png
