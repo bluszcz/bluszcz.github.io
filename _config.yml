@@ -44,6 +44,7 @@ devcarpet_theme:
     vimeo: devcarpet
     youtube_channel: UCH8bTGji7CZzSExtFGzvdMQ
     youtube_channel_name: DevCarpet
+    mastodon: mastodon.art/@bluszcz
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -75,13 +76,21 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 author:
   name     : "bluszcz"
   bio      : "Open Source nerd. Fan of Python. DevOps for life. Linux user. Captures world with the help of Black Magic Cinema Pocket Camera 4K."
-  location : "Barcelona, Spain"
-  uri      : "https://mastodon.art/@bluszcz"
+  location : "Warsaw, Poland"
+  #uri      : "https://mastodon.art/@bluszcz"
   links:
-    - label: "Github"
-      icon: "fas fa-fw fa-github"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/bluszcz"
-
+    - label: "Mastodon"
+      url: "https://mastodon.art/@bluszcz"
+      icon: "fab fa-fw fa-mastodon"
+    - label: "PixelFed"
+      url: "https://pixelfed.social/bluszcz"
+      icon: "fa fa-camera"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/betaidoru666"
 
 collections:
   projects:
