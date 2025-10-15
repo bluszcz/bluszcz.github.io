@@ -12,4 +12,4 @@ And the Gem can be found here:
 
 * [Jekyll-Strapi-4 Gem](https://rubygems.org/gems/jekyll-strapi-4/)
 
-I am also working on improving this blog. I was for a few moments considering switching to [Hugo](https://gohugo.io), but Jekyll's integration with GitHub is very convincing. I have also found an excellent theme [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes/) to which I am upgrading now my blog. 
+I am also working on improving this blog. I was for a few moments considering switching to [Hugo](https://gohugo.io), but Jekyll's integration with GitHub is very convincing. I have also found an excellent theme [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes/) to which I am now upgrading my blog. 
