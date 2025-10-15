@@ -4,7 +4,7 @@ title:  "RHCE Passed"
 date:   2008-05-10 17:00:47 +0100
 categories: certification redhat
 ---
-I have found this in archive.org and I have decided to share. Also, adding  an archived posts to Jekyll is a blast! :)
+I have found this in archive.org and I have decided to share it. Also, adding archived posts to Jekyll is a blast! :)
 
 ```
 RHCT components score:                             100.0

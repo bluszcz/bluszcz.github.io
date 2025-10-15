@@ -4,9 +4,9 @@ title:  "Experiments with Minimal Mistakes"
 date:   2022-11-25 19:32:00 +0100
 categories: development jekyll
 ---
-Yesterday I dedicated some time to investigate [Minimal Mistakes](https://mmistakes.github.io/). I would say that it well spent time - blog is running now on this theme.
+Yesterday I dedicated some time to investigate [Minimal Mistakes](https://mmistakes.github.io/). I would say that it was well spent time - the blog is now running on this theme.
 
-In general theme works fine. The only problem which I had was a local building of the blog ;) I was facing following error:
+In general, the theme works fine. The only problem which I had was local building of the blog ;) I was facing the following error:
 
 ```
 Build Warning: Layout 'single' requested in _posts/2022-07-24-welcome-to-jekyll.markdown does not exist.
@@ -14,7 +14,7 @@ Build Warning: Layout 'single' requested in _posts/2022-07-24-welcome-to-jekyll.
 
 Not really helpful?
 
-Under [this link](https://github.com/mmistakes/minimal-mistakes/issues/2071#issuecomment-769329832) I have found following recipe:
+Under [this link](https://github.com/mmistakes/minimal-mistakes/issues/2071#issuecomment-769329832) I have found the following recipe:
 
 Add to `_config.yml`:
 

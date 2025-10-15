@@ -6,7 +6,7 @@ categories: development gamedev green_stories  gotodengine
 header:
     image: "/assets/images/gamedev/gs02.jpg"
 ---
-I like the new Godot 4. Even though it is still beta (6th release), I think it works very stable. However, I have to say that I was working mostly with new unified Tilemaps and Tilesets.
+I like the new Godot 4. Even though it is still beta (6th release), I think it works very stable. However, I have to say that I was working mostly with the new unified Tilemaps and Tilesets.
 
 ![Progress](/assets/images/gamedev/gs03.jpg)
 
