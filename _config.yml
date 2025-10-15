@@ -34,6 +34,7 @@ markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
   # - jekyll-seo-tag
   - jekyll-include-cache
   - jekyll-remote-theme
@@ -79,6 +80,9 @@ author:
   location : "Warsaw, Poland"
   #uri      : "https://mastodon.art/@bluszcz"
   links:
+    - label: "Photography Portfolio"
+      icon: "fas fa-fw fa-camera"
+      url: "https://idoru.pl"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bluszcz"
@@ -91,9 +95,9 @@ author:
     # - label: "Mastodon PL"
     #   url: "https://pol.social/@bluszcz"
     #   icon: "fab fa-fw fa-mastodon"
-    - label: "PixelFed"
-      url: "https://pixelfed.social/bluszcz"
-      icon: "fa fa-camera"
+    - label: "Vernissage"
+      url: "https://vernissage.photos/@bluszcz"
+      icon: "fas fa-fw fa-camera"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/betaidoru666"
